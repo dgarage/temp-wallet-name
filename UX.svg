@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="UX.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 95.249995 169.33333"
+   height="640"
+   width="360">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="SVGID_2_"
+       gradientUnits="userSpaceOnUse"
+       x1="16.091801"
+       y1="16.4863"
+       x2="46.174301"
+       y2="30.3389">
+      <stop
+         offset="0"
+         style="stop-color:#FFF8BF"
+         id="stop11" />
+      <stop
+         offset="0.3697"
+         style="stop-color:#FFFF00"
+         id="stop13" />
+      <stop
+         offset="1"
+         style="stop-color:#FFAD3F"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="34.328098"
+       y1="-0.83590001"
+       x2="34.328098"
+       y2="63.412498">
+      <stop
+         offset="0"
+         style="stop-color:#FFF8BF"
+         id="stop2" />
+      <stop
+         offset="0.3697"
+         style="stop-color:#FFFF00"
+         id="stop4" />
+      <stop
+         offset="1"
+         style="stop-color:#FFAD3F"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       y2="30.3389"
+       x2="46.174301"
+       y1="16.4863"
+       x1="16.091801"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_2_-9">
+      <stop
+         id="stop11-4"
+         style="stop-color:#FFF8BF"
+         offset="0" />
+      <stop
+         id="stop13-1"
+         style="stop-color:#FFFF00"
+         offset="0.3697" />
+      <stop
+         id="stop15-5"
+         style="stop-color:#FFAD3F"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="796.92921"
+     inkscape:cx="716.84788"
+     inkscape:zoom="0.40575221"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="0.13677152"
+       x="0.13677152"
+       height="169.05978"
+       width="94.976456"
+       id="rect10"
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.273543;stop-color:#000000" />
+    <text
+       id="text14"
+       y="75.471474"
+       x="48.822952"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         id="tspan16"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         y="75.471474"
+         x="48.822952"
+         sodipodi:role="line">WELCOME</tspan><tspan
+         id="tspan20"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         y="84.996895"
+         x="48.822952"
+         sodipodi:role="line">SCAN PULL PAYMENT</tspan></text>
+    <path
+       style="stroke-width:0.0250321"
+       d="m 56.09418,96.291393 v 7.209257 c 0,0.66335 -0.538192,1.20154 -1.201545,1.20154 H 44.479249 c -0.663353,0 -1.201545,-0.53819 -1.201545,-1.20154 v -7.209257 c 0,-0.66335 0.538192,-1.20155 1.201545,-1.20155 h 2.202831 l 0.307896,-0.82355 c 0.175225,-0.46811 0.623302,-0.77851 1.123945,-0.77851 h 3.141539 c 0.500643,0 0.948719,0.3104 1.123945,0.77851 l 0.310399,0.82355 h 2.202831 c 0.663353,0 1.201545,0.5382 1.201545,1.20155 z m -3.404376,3.604627 c 0,-1.65713 -1.346732,-3.003857 -3.003862,-3.003857 -1.65713,0 -3.003862,1.346727 -3.003862,3.003857 0,1.65712 1.346732,3.00385 3.003862,3.00385 1.65713,0 3.003862,-1.34673 3.003862,-3.00385 z m -0.80103,0 c 0,1.21405 -0.988771,2.20282 -2.202832,2.20282 -1.214061,0 -2.202832,-0.98877 -2.202832,-2.20282 0,-1.21406 0.988771,-2.20283 2.202832,-2.20283 1.214061,0 2.202832,0.98877 2.202832,2.20283 z"
+       id="path2" />
+    <rect
+       y="183.14937"
+       x="154.65689"
+       height="169.05978"
+       width="94.976456"
+       id="rect10-6-2"
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.273542;stop-color:#000000" />
+    <text
+       id="text14-9-40"
+       y="203.38322"
+       x="184.53371"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         y="203.38322"
+         x="184.53371"
+         id="tspan848"
+         sodipodi:role="line">Payments</tspan></text>
+    <g
+       transform="matrix(0.20344421,0,0,0.20344421,164.33621,223.3478)"
+       id="g6">
+      <path
+         fill="#f7931a"
+         d="M 63.033,39.744 C 58.759,56.887 41.396,67.32 24.251,63.045 7.113,58.771 -3.32,41.407 0.956,24.265 5.228,7.12 22.591,-3.314 39.731,0.96 56.875,5.234 67.307,22.6 63.033,39.744 Z"
+         id="path2-0" />
+      <path
+         fill="#ffffff"
+         d="M 46.103,27.444 C 46.74,23.186 43.498,20.897 39.065,19.37 l 1.438,-5.768 -3.511,-0.875 -1.4,5.616 c -0.923,-0.23 -1.871,-0.447 -2.813,-0.662 l 1.41,-5.653 -3.509,-0.875 -1.439,5.766 c -0.764,-0.174 -1.514,-0.346 -2.242,-0.527 l 0.004,-0.018 -4.842,-1.209 -0.934,3.75 c 0,0 2.605,0.597 2.55,0.634 1.422,0.355 1.679,1.296 1.636,2.042 l -1.638,6.571 c 0.098,0.025 0.225,0.061 0.365,0.117 -0.117,-0.029 -0.242,-0.061 -0.371,-0.092 l -2.296,9.205 c -0.174,0.432 -0.615,1.08 -1.609,0.834 0.035,0.051 -2.552,-0.637 -2.552,-0.637 l -1.743,4.019 4.569,1.139 c 0.85,0.213 1.683,0.436 2.503,0.646 l -1.453,5.834 3.507,0.875 1.439,-5.772 c 0.958,0.26 1.888,0.5 2.798,0.726 l -1.434,5.745 3.511,0.875 1.453,-5.823 c 5.987,1.133 10.489,0.676 12.384,-4.739 1.527,-4.36 -0.076,-6.875 -3.226,-8.515 2.294,-0.529 4.022,-2.038 4.483,-5.155 z m -8.022,11.249 c -1.085,4.36 -8.426,2.003 -10.806,1.412 l 1.928,-7.729 c 2.38,0.594 10.012,1.77 8.878,6.317 z m 1.086,-11.312 c -0.99,3.966 -7.1,1.951 -9.082,1.457 l 1.748,-7.01 c 1.982,0.494 8.365,1.416 7.334,5.553 z"
+         id="path4" />
+    </g>
+    <path
+       style="stroke-width:0.0377081"
+       d="m 177.63906,245.91479 c 0,3.42849 -2.77928,6.20784 -6.20773,6.20784 -3.42849,0 -6.2078,-2.77935 -6.2078,-6.20784 0,-3.42845 2.77931,-6.20777 6.2078,-6.20777 3.42842,0 6.20773,2.77932 6.20773,6.20777"
+       fill="#bebebe"
+       id="path4-1" />
+    <path
+       style="stroke-width:0.0377081"
+       d="m 176.32109,245.91486 c 0,2.70039 -2.18922,4.88979 -4.88976,4.88979 -2.7005,0 -4.88986,-2.1894 -4.88986,-4.88979 0,-2.70061 2.18936,-4.88986 4.88986,-4.88986 2.70058,0 4.88976,2.18921 4.88976,4.88986"
+       fill="#bebebe"
+       id="path6" />
+    <path
+       style="stroke-width:0.0377081"
+       d="m 171.06851,247.57315 0.40321,-1.51828 0.95462,-0.34876 0.23744,-0.89229 -0.008,-0.0222 -0.93968,0.3433 0.67705,-2.54937 h -1.92014 l -0.88542,3.32698 -0.73926,0.27007 -0.24428,0.91989 0.73871,-0.26985 -0.52185,1.96075 h 5.11024 l 0.3276,-1.22031 h -3.19013"
+       fill="#ffffff"
+       id="path8" />
+    <text
+       id="text183"
+       y="231.05902"
+       x="187.06093"
+       style="font-style:normal;font-weight:normal;font-size:4.7482px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.118705"
+         y="231.05902"
+         x="187.06093"
+         id="tspan181"
+         sodipodi:role="line">1.0 BTC  10min ago</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.7482px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705"
+       x="186.36929"
+       y="247.42775"
+       id="text187"><tspan
+         sodipodi:role="line"
+         id="tspan185"
+         x="186.36929"
+         y="247.42775"
+         style="stroke-width:0.118705">1.0 LTC  1 day ago</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.273542;stop-color:#000000"
+       id="rect10-6-2-4"
+       width="94.976456"
+       height="169.05978"
+       x="286.11105"
+       y="184.05557" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="306.73343"
+       y="235.87416"
+       id="text14-9-40-4"><tspan
+         sodipodi:role="line"
+         x="306.73343"
+         y="235.87416"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan20-8-02-3">Currency</tspan></text>
+    <text
+       id="text242"
+       y="255.18343"
+       x="304.75766"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         id="tspan240"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         y="255.18343"
+         x="304.75766"
+         sodipodi:role="line">Amount</tspan></text>
+    <text
+       id="text246"
+       y="271.01974"
+       x="289.41922"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="271.01974"
+         x="289.41922"
+         id="tspan244"
+         sodipodi:role="line">Source</tspan></text>
+    <g
+       id="g6-4"
+       transform="matrix(0.20344421,0,0,0.20344421,165.31433,255.29977)">
+      <path
+         id="path2-0-3"
+         d="M 63.033,39.744 C 58.759,56.887 41.396,67.32 24.251,63.045 7.113,58.771 -3.32,41.407 0.956,24.265 5.228,7.12 22.591,-3.314 39.731,0.96 56.875,5.234 67.307,22.6 63.033,39.744 Z"
+         fill="#f7931a" />
+      <path
+         id="path4-0"
+         d="M 46.103,27.444 C 46.74,23.186 43.498,20.897 39.065,19.37 l 1.438,-5.768 -3.511,-0.875 -1.4,5.616 c -0.923,-0.23 -1.871,-0.447 -2.813,-0.662 l 1.41,-5.653 -3.509,-0.875 -1.439,5.766 c -0.764,-0.174 -1.514,-0.346 -2.242,-0.527 l 0.004,-0.018 -4.842,-1.209 -0.934,3.75 c 0,0 2.605,0.597 2.55,0.634 1.422,0.355 1.679,1.296 1.636,2.042 l -1.638,6.571 c 0.098,0.025 0.225,0.061 0.365,0.117 -0.117,-0.029 -0.242,-0.061 -0.371,-0.092 l -2.296,9.205 c -0.174,0.432 -0.615,1.08 -1.609,0.834 0.035,0.051 -2.552,-0.637 -2.552,-0.637 l -1.743,4.019 4.569,1.139 c 0.85,0.213 1.683,0.436 2.503,0.646 l -1.453,5.834 3.507,0.875 1.439,-5.772 c 0.958,0.26 1.888,0.5 2.798,0.726 l -1.434,5.745 3.511,0.875 1.453,-5.823 c 5.987,1.133 10.489,0.676 12.384,-4.739 1.527,-4.36 -0.076,-6.875 -3.226,-8.515 2.294,-0.529 4.022,-2.038 4.483,-5.155 z m -8.022,11.249 c -1.085,4.36 -8.426,2.003 -10.806,1.412 l 1.928,-7.729 c 2.38,0.594 10.012,1.77 8.878,6.317 z m 1.086,-11.312 c -0.99,3.966 -7.1,1.951 -9.082,1.457 l 1.748,-7.01 c 1.982,0.494 8.365,1.416 7.334,5.553 z"
+         fill="#ffffff" />
+    </g>
+    <polygon
+       transform="matrix(0.17370544,0,0,0.17370544,171.86188,260.12778)"
+       style="fill:url(#SVGID_1_)"
+       fill="url(#SVGID_1_)"
+       stroke="#ff8212"
+       stroke-miterlimit="10"
+       points="35.065,1.869 48.754,1.869 36.131,18.754 53.508,14.656 20.721,58.918 32.524,30.803 15.147,33.754 "
+       id="polygon9" />
+    <polygon
+       transform="matrix(0.17370544,0,0,0.17370544,171.86188,260.12778)"
+       style="fill:url(#SVGID_2_)"
+       fill="url(#SVGID_2_)"
+       points="35.722,3.641 45.604,3.641 32.361,20.967 49.41,17.606 26.91,47.904 36.049,28.099 18.706,31.196 "
+       id="polygon18" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.74821px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705"
+       x="186.12936"
+       y="263.17017"
+       id="text183-5"><tspan
+         sodipodi:role="line"
+         id="tspan181-8"
+         x="186.12936"
+         y="263.17017"
+         style="stroke-width:0.118705">0.012 BTC  7 days ago</tspan></text>
+    <text
+       id="text14-9-40-4-8"
+       y="195.71211"
+       x="366.46683"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         id="tspan20-8-02-3-4"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         y="195.71211"
+         x="366.46683"
+         sodipodi:role="line">Back</tspan></text>
+    <g
+       transform="matrix(0.20344421,0,0,0.20344421,330.41473,227.19825)"
+       id="g6-4-0">
+      <path
+         fill="#f7931a"
+         d="M 63.033,39.744 C 58.759,56.887 41.396,67.32 24.251,63.045 7.113,58.771 -3.32,41.407 0.956,24.265 5.228,7.12 22.591,-3.314 39.731,0.96 56.875,5.234 67.307,22.6 63.033,39.744 Z"
+         id="path2-0-3-7" />
+      <path
+         fill="#ffffff"
+         d="M 46.103,27.444 C 46.74,23.186 43.498,20.897 39.065,19.37 l 1.438,-5.768 -3.511,-0.875 -1.4,5.616 c -0.923,-0.23 -1.871,-0.447 -2.813,-0.662 l 1.41,-5.653 -3.509,-0.875 -1.439,5.766 c -0.764,-0.174 -1.514,-0.346 -2.242,-0.527 l 0.004,-0.018 -4.842,-1.209 -0.934,3.75 c 0,0 2.605,0.597 2.55,0.634 1.422,0.355 1.679,1.296 1.636,2.042 l -1.638,6.571 c 0.098,0.025 0.225,0.061 0.365,0.117 -0.117,-0.029 -0.242,-0.061 -0.371,-0.092 l -2.296,9.205 c -0.174,0.432 -0.615,1.08 -1.609,0.834 0.035,0.051 -2.552,-0.637 -2.552,-0.637 l -1.743,4.019 4.569,1.139 c 0.85,0.213 1.683,0.436 2.503,0.646 l -1.453,5.834 3.507,0.875 1.439,-5.772 c 0.958,0.26 1.888,0.5 2.798,0.726 l -1.434,5.745 3.511,0.875 1.453,-5.823 c 5.987,1.133 10.489,0.676 12.384,-4.739 1.527,-4.36 -0.076,-6.875 -3.226,-8.515 2.294,-0.529 4.022,-2.038 4.483,-5.155 z m -8.022,11.249 c -1.085,4.36 -8.426,2.003 -10.806,1.412 l 1.928,-7.729 c 2.38,0.594 10.012,1.77 8.878,6.317 z m 1.086,-11.312 c -0.99,3.966 -7.1,1.951 -9.082,1.457 l 1.748,-7.01 c 1.982,0.494 8.365,1.416 7.334,5.553 z"
+         id="path4-0-8" />
+    </g>
+    <polygon
+       id="polygon18-6"
+       points="36.049,28.099 18.706,31.196 35.722,3.641 45.604,3.641 32.361,20.967 49.41,17.606 26.91,47.904 "
+       fill="url(#SVGID_2_)"
+       style="fill:url(#SVGID_2_-9)"
+       transform="matrix(0.17370544,0,0,0.17370544,336.96228,232.02626)" />
+    <text
+       id="text381"
+       y="255.90546"
+       x="327.83563"
+       style="font-style:normal;font-weight:normal;font-size:5.29166648px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.29166648px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+         y="255.90546"
+         x="327.83563"
+         id="tspan379"
+         sodipodi:role="line">0.012</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="339.65576"
+       y="272.13431"
+       id="text385"><tspan
+         sodipodi:role="line"
+         x="339.65576"
+         y="272.13431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan383">Main wallet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="289.18048"
+       y="285.77466"
+       id="text389"><tspan
+         sodipodi:role="line"
+         id="tspan387"
+         x="289.18048"
+         y="285.77466"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Date</tspan></text>
+    <text
+       id="text393"
+       y="284.59067"
+       x="324.74829"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.230309"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.230309"
+         y="284.59067"
+         x="324.74829"
+         id="tspan391"
+         sodipodi:role="line">6 september 2020</tspan></text>
+    <text
+       id="text397"
+       y="300.99066"
+       x="289.18048"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="300.99066"
+         x="289.18048"
+         id="tspan395"
+         sodipodi:role="line">Status</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.230309"
+       x="326.49088"
+       y="300.58801"
+       id="text393-0"><tspan
+         sodipodi:role="line"
+         id="tspan391-0"
+         x="326.49088"
+         y="300.58801"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.230309">Approved</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.273542;stop-color:#000000"
+       id="rect417"
+       width="94.976456"
+       height="169.05978"
+       x="6.1856132"
+       y="181.30501" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="31.396891"
+       y="205.12531"
+       id="text421"><tspan
+         y="205.12531"
+         x="31.396891"
+         id="tspan461"
+         sodipodi:role="line">Pull payments</tspan></text>
+    <text
+       id="text465"
+       y="213.77376"
+       x="58.311958"
+       style="font-style:normal;font-weight:normal;font-size:3.18936px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0797342"
+       xml:space="preserve"><tspan
+         id="tspan463"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0797342"
+         y="213.77376"
+         x="58.311958"
+         sodipodi:role="line">New pull payment</tspan></text>
+    <path
+       style="stroke-width:0.0104767"
+       d="m 41.841628,211.16153 v 3.0173 c 0,0.27763 -0.22525,0.50288 -0.502888,0.50288 h -4.358337 c -0.277633,0 -0.502887,-0.22525 -0.502887,-0.50288 v -3.0173 c 0,-0.27764 0.225254,-0.50289 0.502887,-0.50289 h 0.921956 l 0.128866,-0.34468 c 0.07334,-0.19592 0.260872,-0.32583 0.470406,-0.32583 h 1.314836 c 0.209534,0 0.39707,0.12991 0.470409,0.32583 l 0.129909,0.34468 h 0.921955 c 0.277638,0 0.502888,0.22525 0.502888,0.50289 z m -1.424843,1.50865 c 0,-0.69356 -0.563651,-1.25721 -1.257213,-1.25721 -0.693563,0 -1.257213,0.56365 -1.257213,1.25721 0,0.69356 0.56365,1.25721 1.257213,1.25721 0.693562,0 1.257213,-0.56365 1.257213,-1.25721 z m -0.335257,0 c 0,0.50812 -0.413833,0.92195 -0.921956,0.92195 -0.508124,0 -0.921956,-0.41383 -0.921956,-0.92195 0,-0.50813 0.413832,-0.92195 0.921956,-0.92195 0.508123,0 0.921956,0.41382 0.921956,0.92195 z"
+       id="path467" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="32.626492"
+       y="228.94012"
+       id="text471"><tspan
+         sodipodi:role="line"
+         x="32.626492"
+         y="228.94012"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan469">Main wallet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="33.278576"
+       y="251.76286"
+       id="text475"><tspan
+         sodipodi:role="line"
+         x="33.278576"
+         y="251.76286"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan473">Cold wallet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="33.278576"
+       y="272.62933"
+       id="text479"><tspan
+         sodipodi:role="line"
+         x="33.278576"
+         y="272.62933"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan477">Hot wallet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="44.513996"
+       y="294.80008"
+       id="text483"><tspan
+         sodipodi:role="line"
+         x="44.513996"
+         y="294.80008"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan481">Exchange wallet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="53.793163"
+       y="318.92709"
+       id="text487"><tspan
+         sodipodi:role="line"
+         x="53.793163"
+         y="318.92709"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan485">Random service wallet</tspan></text>
+    <rect
+       y="234.71753"
+       x="10.138985"
+       height="5.0645885"
+       width="83.630844"
+       id="rect489"
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.518433;stop-color:#000000" />
+    <rect
+       y="234.71753"
+       x="10.138985"
+       height="5.3811255"
+       width="38.98048"
+       id="rect493"
+       style="fill:#51b13e;stroke:#292929;stroke-width:0.518433;stop-color:#000000" />
+    <rect
+       style="fill:#ffc107;stroke:#292929;stroke-width:0.518433;stop-color:#000000"
+       id="rect495"
+       width="38.98048"
+       height="5.3811255"
+       x="49.24865"
+       y="234.71753" />
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.513601;stop-color:#000000"
+       id="rect497"
+       width="82.005478"
+       height="5.0691366"
+       x="12.536573"
+       y="256.23355" />
+    <rect
+       style="fill:#51b13e;stroke:#292929;stroke-width:0.513601;stop-color:#000000"
+       id="rect499"
+       width="38.222893"
+       height="5.3859577"
+       x="12.536573"
+       y="256.23355" />
+    <rect
+       y="278.39877"
+       x="15.690757"
+       height="5.0741248"
+       width="77.455116"
+       id="rect497-1"
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.499394;stop-color:#000000" />
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.499394;stop-color:#000000"
+       id="rect518"
+       width="77.455116"
+       height="5.0741248"
+       x="15.690757"
+       y="300.09457" />
+    <rect
+       y="326.55185"
+       x="15.689756"
+       height="5.0761271"
+       width="76.805038"
+       id="rect520"
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.497392;stop-color:#000000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.18936px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0797342"
+       x="57.558891"
+       y="227.98117"
+       id="text524"><tspan
+         y="227.98117"
+         x="57.558891"
+         id="tspan526"
+         sodipodi:role="line">Reset in 10 days</tspan></text>
+    <text
+       id="text530"
+       y="205.12531"
+       x="31.396891"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan528"
+         x="31.396891"
+         y="205.12531">Pull payments</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.18936px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0797342"
+       x="58.311958"
+       y="213.77376"
+       id="text534"><tspan
+         sodipodi:role="line"
+         x="58.311958"
+         y="213.77376"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0797342"
+         id="tspan532">New pull payment</tspan></text>
+    <path
+       id="path536"
+       d="m 41.841628,211.16153 v 3.0173 c 0,0.27763 -0.22525,0.50288 -0.502888,0.50288 h -4.358337 c -0.277633,0 -0.502887,-0.22525 -0.502887,-0.50288 v -3.0173 c 0,-0.27764 0.225254,-0.50289 0.502887,-0.50289 h 0.921956 l 0.128866,-0.34468 c 0.07334,-0.19592 0.260872,-0.32583 0.470406,-0.32583 h 1.314836 c 0.209534,0 0.39707,0.12991 0.470409,0.32583 l 0.129909,0.34468 h 0.921955 c 0.277638,0 0.502888,0.22525 0.502888,0.50289 z m -1.424843,1.50865 c 0,-0.69356 -0.563651,-1.25721 -1.257213,-1.25721 -0.693563,0 -1.257213,0.56365 -1.257213,1.25721 0,0.69356 0.56365,1.25721 1.257213,1.25721 0.693562,0 1.257213,-0.56365 1.257213,-1.25721 z m -0.335257,0 c 0,0.50812 -0.413833,0.92195 -0.921956,0.92195 -0.508124,0 -0.921956,-0.41383 -0.921956,-0.92195 0,-0.50813 0.413832,-0.92195 0.921956,-0.92195 0.508123,0 0.921956,0.41382 0.921956,0.92195 z"
+       style="stroke-width:0.0104767" />
+    <text
+       id="text540"
+       y="228.94012"
+       x="32.626492"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         id="tspan538"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         y="228.94012"
+         x="32.626492"
+         sodipodi:role="line">Main wallet</tspan></text>
+    <text
+       id="text544"
+       y="251.76286"
+       x="33.278576"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         id="tspan542"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         y="251.76286"
+         x="33.278576"
+         sodipodi:role="line">Cold wallet</tspan></text>
+    <text
+       id="text548"
+       y="272.62933"
+       x="33.278576"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         id="tspan546"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         y="272.62933"
+         x="33.278576"
+         sodipodi:role="line">Hot wallet</tspan></text>
+    <text
+       id="text552"
+       y="294.80008"
+       x="44.513996"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         id="tspan550"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         y="294.80008"
+         x="44.513996"
+         sodipodi:role="line">Exchange wallet</tspan></text>
+    <text
+       id="text556"
+       y="318.92709"
+       x="53.793163"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         id="tspan554"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         y="318.92709"
+         x="53.793163"
+         sodipodi:role="line">Random service wallet</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.518433;stop-color:#000000"
+       id="rect558"
+       width="83.630844"
+       height="5.0645885"
+       x="10.138985"
+       y="234.71753" />
+    <rect
+       style="fill:#51b13e;stroke:#292929;stroke-width:0.518433;stop-color:#000000"
+       id="rect560"
+       width="38.98048"
+       height="5.3811255"
+       x="10.138985"
+       y="234.71753" />
+    <rect
+       y="234.71753"
+       x="49.24865"
+       height="5.3811255"
+       width="38.98048"
+       id="rect562"
+       style="fill:#ffc107;stroke:#292929;stroke-width:0.518433;stop-color:#000000" />
+    <rect
+       y="256.23355"
+       x="12.536573"
+       height="5.0691366"
+       width="82.005478"
+       id="rect564"
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.513601;stop-color:#000000" />
+    <rect
+       y="256.23355"
+       x="12.536573"
+       height="5.3859577"
+       width="38.222893"
+       id="rect566"
+       style="fill:#51b13e;stroke:#292929;stroke-width:0.513601;stop-color:#000000" />
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.499394;stop-color:#000000"
+       id="rect568"
+       width="77.455116"
+       height="5.0741248"
+       x="15.690757"
+       y="278.39877" />
+    <rect
+       y="300.09457"
+       x="15.690757"
+       height="5.0741248"
+       width="77.455116"
+       id="rect570"
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.499394;stop-color:#000000" />
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.497392;stop-color:#000000"
+       id="rect572"
+       width="76.805038"
+       height="5.0761271"
+       x="15.689756"
+       y="326.55185" />
+    <text
+       id="text576"
+       y="227.98117"
+       x="57.558891"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.18936px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0797342"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan574"
+         x="57.558891"
+         y="227.98117">Reset in 10 days</tspan></text>
+    <rect
+       y="364.42743"
+       x="7.1077952"
+       height="169.05978"
+       width="94.976456"
+       id="rect578"
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.273542;stop-color:#000000" />
+    <text
+       id="text596"
+       y="430.94461"
+       x="12.057971"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         y="430.94461"
+         x="12.057971"
+         id="tspan694"
+         sodipodi:role="line">Limit</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.518433;stop-color:#000000"
+       id="rect610"
+       width="83.630844"
+       height="5.0645885"
+       x="10.600076"
+       y="402.4259" />
+    <rect
+       style="fill:#51b13e;stroke:#292929;stroke-width:0.518433;stop-color:#000000"
+       id="rect612"
+       width="38.98048"
+       height="5.3811255"
+       x="10.600076"
+       y="402.4259" />
+    <rect
+       y="402.4259"
+       x="49.70974"
+       height="5.3811255"
+       width="38.98048"
+       id="rect614"
+       style="fill:#ffc107;stroke:#292929;stroke-width:0.518433;stop-color:#000000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="51.997932"
+       y="386.44025"
+       id="text642"><tspan
+         sodipodi:role="line"
+         x="51.997932"
+         y="386.44025"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan640">Main wallet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="33.739666"
+       y="435.34616"
+       id="text646"><tspan
+         sodipodi:role="line"
+         x="33.739666"
+         y="435.34616"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan644" /></text>
+    <rect
+       y="402.4259"
+       x="10.600076"
+       height="5.0645885"
+       width="83.630844"
+       id="rect660"
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.518433;stop-color:#000000" />
+    <rect
+       y="402.4259"
+       x="10.600076"
+       height="5.3811255"
+       width="38.98048"
+       id="rect662"
+       style="fill:#51b13e;stroke:#292929;stroke-width:0.518433;stop-color:#000000" />
+    <rect
+       style="fill:#ffc107;stroke:#292929;stroke-width:0.518433;stop-color:#000000"
+       id="rect664"
+       width="38.98048"
+       height="5.3811255"
+       x="49.70974"
+       y="402.4259" />
+    <text
+       id="text692"
+       y="393.0437"
+       x="39.499146"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.18936px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0797342"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan690"
+         x="39.499146"
+         y="393.0437">Reset in 10 days</tspan></text>
+    <text
+       id="text698"
+       y="439.88412"
+       x="12.675808"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74821px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705;"
+       xml:space="preserve"><tspan
+         id="tspan702"
+         sodipodi:role="line">160 USD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="11.97776"
+       y="453.11536"
+       id="text718"><tspan
+         y="453.11536"
+         x="11.97776"
+         id="tspan734"
+         sodipodi:role="line">Complete</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74821px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705"
+       x="12.595596"
+       y="461.4028"
+       id="text722"><tspan
+         y="461.4028"
+         x="12.595596"
+         id="tspan732"
+         sodipodi:role="line"> 70 USD</tspan></text>
+    <text
+       id="text738"
+       y="473.00381"
+       x="12.54963"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       xml:space="preserve"><tspan
+         y="473.00381"
+         x="12.54963"
+         id="tspan744"
+         sodipodi:role="line">Waiting for approval</tspan></text>
+    <text
+       id="text742"
+       y="481.29126"
+       x="13.167466"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74821px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705;"
+       xml:space="preserve"><tspan
+         id="tspan756"
+         sodipodi:role="line">80 USD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="13.527752"
+       y="492.40067"
+       id="text750"><tspan
+         y="492.40067"
+         x="13.527752"
+         id="tspan758"
+         sodipodi:role="line">Unused</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74821px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705;"
+       x="14.145588"
+       y="499.62976"
+       id="text754"><tspan
+         id="tspan760"
+         sodipodi:role="line">10 USD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="85.201363"
+       y="375.99866"
+       id="text764"><tspan
+         sodipodi:role="line"
+         x="85.201363"
+         y="375.99866"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan762">Back</tspan></text>
+    <path
+       id="path768"
+       d="m 249.91128,261.89964 h 35.50401"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path770"
+       d="M 5.9941819,226.39564 H -18.904728 V 386.3942 H 6.4552729"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path772"
+       d="M 5.533091,337.97963 H 100.51782"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="340.71237"
+       x="14.671824"
+       height="6.8468509"
+       width="8.1510134"
+       id="rect776"
+       style="fill:#ffc107;stroke:#292929;stroke-width:0.35687;stop-color:#000000" />
+    <rect
+       style="fill:#51b13e;stroke:#292929;stroke-width:0.35687;stop-color:#000000"
+       id="rect778"
+       width="8.1510134"
+       height="6.8468509"
+       x="14.671824"
+       y="340.71237" />
+    <rect
+       y="340.38632"
+       x="31.299889"
+       height="7.4989319"
+       width="7.4989319"
+       id="rect780"
+       style="fill:#cedc21;stroke:#292929;stroke-width:0.35687;stop-color:#000000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.22895,337.97963 h 94.9848"
+       id="path782" />
+    <rect
+       y="340.71237"
+       x="162.83849"
+       height="6.8468509"
+       width="8.1510134"
+       id="rect784"
+       style="fill:#51b13e;stroke:#292929;stroke-width:0.35687;stop-color:#000000" />
+    <rect
+       style="fill:#cedc21;stroke:#292929;stroke-width:0.35687;stop-color:#000000"
+       id="rect786"
+       width="7.4989319"
+       height="7.4989319"
+       x="179.4666"
+       y="340.38632" />
+    <path
+       id="path788"
+       d="m 162.83848,342.46546 c -26.22751,0 -26.55355,0 -26.55355,0 V 194.64619 h -35.53841"
+       style="fill:none;stroke:#000000;stroke-width:0.266166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path790"
+       d="M 38.798821,343.76913 H 111.17982 V 189.1035 h 44.01547"
+       style="fill:none;stroke:#000000;stroke-width:0.267525px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.273542;stop-color:#000000"
+       id="rect792"
+       width="94.976456"
+       height="169.05978"
+       x="154.65689"
+       y="381.58701" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="200.40872"
+       y="401.8208"
+       id="text796"><tspan
+         sodipodi:role="line"
+         x="200.40872"
+         y="401.8208"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan794">Send</tspan></text>
+    <path
+       id="path832"
+       d="m 154.22895,536.41736 h 94.9848"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="fill:#51b13e;stroke:#292929;stroke-width:0.35687;stop-color:#000000"
+       id="rect834"
+       width="8.1510134"
+       height="6.8468509"
+       x="162.83849"
+       y="539.14984" />
+    <rect
+       y="538.82379"
+       x="179.4666"
+       height="7.4989319"
+       width="7.4989319"
+       id="rect836"
+       style="fill:#cedc21;stroke:#292929;stroke-width:0.35687;stop-color:#000000" />
+    <rect
+       style="fill:#0f3b21;stroke:#292929;stroke-width:0.35687;stop-color:#000000"
+       id="rect842"
+       width="7.4989319"
+       height="7.4989319"
+       x="195.34161"
+       y="538.82379" />
+    <rect
+       y="340.38632"
+       x="195.34161"
+       height="7.4989319"
+       width="7.4989319"
+       id="rect844"
+       style="fill:#0f3b21;stroke:#292929;stroke-width:0.35687;stop-color:#000000" />
+    <rect
+       style="fill:#0f3b21;stroke:#292929;stroke-width:0.35687;stop-color:#000000"
+       id="rect846"
+       width="7.4989319"
+       height="7.4989319"
+       x="47.174896"
+       y="340.38632" />
+    <text
+       id="text852"
+       y="457.19034"
+       x="203.83281"
+       style="font-style:normal;font-weight:normal;font-size:3.18936px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0797342"
+       xml:space="preserve"><tspan
+         id="tspan850"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0797342"
+         y="457.19034"
+         x="203.83281"
+         sodipodi:role="line">Scan QR Code</tspan></text>
+    <path
+       style="stroke-width:0.0104767"
+       d="m 188.95003,454.57844 v 3.0173 c 0,0.27763 -0.22525,0.50288 -0.50289,0.50288 h -4.35833 c -0.27764,0 -0.5029,-0.22525 -0.5029,-0.50288 v -3.0173 c 0,-0.27764 0.22526,-0.50289 0.5029,-0.50289 h 0.92195 l 0.12887,-0.34468 c 0.0733,-0.19592 0.26087,-0.32583 0.4704,-0.32583 h 1.31484 c 0.20953,0 0.39707,0.12991 0.47041,0.32583 l 0.12991,0.34468 h 0.92195 c 0.27764,0 0.50289,0.22525 0.50289,0.50289 z m -1.42484,1.50865 c 0,-0.69356 -0.56365,-1.25721 -1.25722,-1.25721 -0.69356,0 -1.25721,0.56365 -1.25721,1.25721 0,0.69356 0.56365,1.25721 1.25721,1.25721 0.69357,0 1.25722,-0.56365 1.25722,-1.25721 z m -0.33526,0 c 0,0.50812 -0.41383,0.92195 -0.92196,0.92195 -0.50812,0 -0.92195,-0.41383 -0.92195,-0.92195 0,-0.50813 0.41383,-0.92195 0.92195,-0.92195 0.50813,0 0.92196,0.41382 0.92196,0.92195 z"
+       id="path854" />
+    <path
+       id="path856"
+       d="M 195.34161,347.88526 V 382.936"
+       style="fill:none;stroke:#000000;stroke-width:0.395521px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="379.63937"
+       x="286.47296"
+       height="169.05978"
+       width="94.976456"
+       id="rect860"
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.273542;stop-color:#000000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="333.30557"
+       y="441.74353"
+       id="text870"><tspan
+         sodipodi:role="line"
+         x="333.30557"
+         y="441.74353"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan868">Main wallet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="333.95767"
+       y="464.56638"
+       id="text874"><tspan
+         sodipodi:role="line"
+         x="333.95767"
+         y="464.56638"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan872">Cold wallet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="333.95767"
+       y="485.43295"
+       id="text878"><tspan
+         sodipodi:role="line"
+         x="333.95767"
+         y="485.43295"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan876">Hot wallet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="334.60974"
+       y="507.60373"
+       id="text882"><tspan
+         sodipodi:role="line"
+         x="334.60974"
+         y="507.60373"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan880">Exchange wallet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="333.30557"
+       y="531.73083"
+       id="text886"><tspan
+         sodipodi:role="line"
+         x="333.30557"
+         y="531.73083"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan884">Random service wallet</tspan></text>
+    <text
+       id="text890"
+       y="412.67624"
+       x="295.3732"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99143px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.149786"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.149786"
+         y="412.67624"
+         x="295.3732"
+         id="tspan892"
+         sodipodi:role="line">Select the pull payment</tspan></text>
+    <path
+       id="path894"
+       d="m 248.44287,443.41511 h 38.47279"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text898"
+       y="425.85654"
+       x="267.41281"
+       style="font-style:normal;font-weight:normal;font-size:2.91887px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0729719"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.0729719"
+         y="425.85654"
+         x="267.41281"
+         id="tspan896"
+         sodipodi:role="line">After scanning</tspan><tspan
+         id="tspan900"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0729719"
+         y="429.50513"
+         x="267.41281"
+         sodipodi:role="line">the list of pull payments</tspan><tspan
+         id="tspan902"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0729719"
+         y="433.15372"
+         x="267.41281"
+         sodipodi:role="line">presented should be</tspan><tspan
+         id="tspan904"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0729719"
+         y="436.80231"
+         x="267.41281"
+         sodipodi:role="line">those supporting the payment</tspan><tspan
+         id="tspan906"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0729719"
+         y="440.4509"
+         x="267.41281"
+         sodipodi:role="line">type</tspan></text>
+    <text
+       id="text910"
+       y="128.45996"
+       x="104.98505"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="128.45996"
+         x="104.98505"
+         id="tspan908"
+         sodipodi:role="line">First boot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.62034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.190509"
+       x="365.08356"
+       y="392.59793"
+       id="text914"><tspan
+         sodipodi:role="line"
+         x="365.08356"
+         y="392.59793"
+         style="text-align:center;text-anchor:middle;stroke-width:0.190509"
+         id="tspan912">Back</tspan></text>
+  </g>
+</svg>
