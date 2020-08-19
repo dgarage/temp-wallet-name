@@ -11,9 +11,9 @@
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 95.249995 169.33333"
-   height="640"
-   width="360">
+   viewBox="0 0 400.6232 550.78355"
+   height="2081.7017"
+   width="1514.1665">
   <defs
      id="defs2">
     <linearGradient
@@ -78,6 +78,10 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
@@ -89,7 +93,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="796.92921"
-     inkscape:cx="716.84788"
+     inkscape:cx="788.79882"
      inkscape:zoom="0.40575221"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -110,6 +114,7 @@
     </rdf:RDF>
   </metadata>
   <g
+     transform="translate(19.037019)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
@@ -264,13 +269,13 @@
        fill="url(#SVGID_1_)"
        stroke="#ff8212"
        stroke-miterlimit="10"
-       points="35.065,1.869 48.754,1.869 36.131,18.754 53.508,14.656 20.721,58.918 32.524,30.803 15.147,33.754 "
+       points="36.131,18.754 53.508,14.656 20.721,58.918 32.524,30.803 15.147,33.754 35.065,1.869 48.754,1.869 "
        id="polygon9" />
     <polygon
        transform="matrix(0.17370544,0,0,0.17370544,171.86188,260.12778)"
        style="fill:url(#SVGID_2_)"
        fill="url(#SVGID_2_)"
-       points="35.722,3.641 45.604,3.641 32.361,20.967 49.41,17.606 26.91,47.904 36.049,28.099 18.706,31.196 "
+       points="32.361,20.967 49.41,17.606 26.91,47.904 36.049,28.099 18.706,31.196 35.722,3.641 45.604,3.641 "
        id="polygon18" />
     <text
        xml:space="preserve"
@@ -308,7 +313,7 @@
     </g>
     <polygon
        id="polygon18-6"
-       points="36.049,28.099 18.706,31.196 35.722,3.641 45.604,3.641 32.361,20.967 49.41,17.606 26.91,47.904 "
+       points="35.722,3.641 45.604,3.641 32.361,20.967 49.41,17.606 26.91,47.904 36.049,28.099 18.706,31.196 "
        fill="url(#SVGID_2_)"
        style="fill:url(#SVGID_2_-9)"
        transform="matrix(0.17370544,0,0,0.17370544,336.96228,232.02626)" />
@@ -316,9 +321,9 @@
        id="text381"
        y="255.90546"
        x="327.83563"
-       style="font-style:normal;font-weight:normal;font-size:5.29166648px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="stroke-width:0.264583;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.29166648px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          y="255.90546"
          x="327.83563"
          id="tspan379"
@@ -772,8 +777,10 @@
        id="text698"
        y="439.88412"
        x="12.675808"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74821px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74821px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705"
        xml:space="preserve"><tspan
+         y="439.88412"
+         x="12.675808"
          id="tspan702"
          sodipodi:role="line">160 USD</tspan></text>
     <text
@@ -810,8 +817,10 @@
        id="text742"
        y="481.29126"
        x="13.167466"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74821px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74821px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705"
        xml:space="preserve"><tspan
+         y="481.29126"
+         x="13.167466"
          id="tspan756"
          sodipodi:role="line">80 USD</tspan></text>
     <text
@@ -826,10 +835,12 @@
          sodipodi:role="line">Unused</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74821px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74821px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.118705"
        x="14.145588"
        y="499.62976"
        id="text754"><tspan
+         y="499.62976"
+         x="14.145588"
          id="tspan760"
          sodipodi:role="line">10 USD</tspan></text>
     <text
